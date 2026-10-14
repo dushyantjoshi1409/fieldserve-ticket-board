@@ -1,0 +1,4 @@
+{
+  "sync_cmd": "python3 sync.py",
+  "sheet_cmd": "python3 sheet.py"
+}
